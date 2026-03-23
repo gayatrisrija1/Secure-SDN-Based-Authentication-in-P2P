@@ -1,0 +1,8 @@
+# Python Dependencies for Ubuntu/WSL2 SDN Controller
+# Install: pip3 install -r requirements-ubuntu.txt
+
+flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+ryu>=4.34
+eventlet>=0.33.0

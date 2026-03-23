@@ -1,0 +1,7 @@
+# Python Dependencies for Windows Peer Backends
+# Install: pip install -r requirements-windows.txt
+
+flask==3.0.0
+flask-cors==4.0.0
+pycryptodome==3.20.0
+requests==2.31.0
